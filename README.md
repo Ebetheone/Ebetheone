@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Ulaanbaatar, Mongolia
-* ✉️  You can contact me at [dev.elbeg@gmail.com](mailto:dev.elbeg@gmail.com)
+* ✉️  You can contact me at [tab.dev.elbeg@gmail.com](mailto:dev.elbeg@gmail.com)
 
 ### Skills
 
